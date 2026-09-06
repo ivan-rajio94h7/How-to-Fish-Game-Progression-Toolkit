@@ -30,4 +30,4 @@ Return to your saved starting state after a practice session.
 
 Prepare two equipment setups, save a starting profile and compare them on the same island. Keep your preferred configuration for the next session.
 
-[Download for PC](https://flyn.im/94ykBM)
+[Download for PC](https://flyn.im/6PCpxq)
