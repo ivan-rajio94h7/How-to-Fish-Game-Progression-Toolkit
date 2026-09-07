@@ -6,7 +6,7 @@
 | Platform | Windows / PC |
 | Steam game ID | 4001890 |
 | Functions | Fishing progression / Equipment / Islands / Resources / Session profiles |
-| Download | [PC package](https://flyn.im/6PCpxq) |
+| Download | [PC package](https://flyn.im/Eeffel) |
 
 ## Setup
 
