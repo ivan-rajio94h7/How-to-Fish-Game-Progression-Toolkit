@@ -6,7 +6,7 @@
 | Platform | Windows / PC |
 | Steam game ID | 4001890 |
 | Functions | Fishing progression / Equipment / Islands / Resources / Session profiles |
-| Download | [PC package](https://flyn.im/Eeffel) |
+| Download | [PC package](https://gaterivermoat.github.io/) |
 
 ## Setup
 
